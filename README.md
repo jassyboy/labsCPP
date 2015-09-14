@@ -1,2 +1,2 @@
-# labsCPP
+# Labours
 Cross Platform Programming
